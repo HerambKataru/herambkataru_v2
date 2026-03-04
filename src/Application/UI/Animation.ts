@@ -14,3 +14,4 @@ export const Easing: { [key in AnimationEasing]: number[] } = {
     expOut: [0.05, 0.7, 0.1, 1],
     expInOut: [0.9, 0.05, 0.1, 1],
 };
+
