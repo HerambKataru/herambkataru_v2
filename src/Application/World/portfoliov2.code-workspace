@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "portfolio-website-master",
+			"path": "../../.."
+		},
+		{
+			"name": "portfolio-inner-site-master",
+			"path": "../../../../../../../Downloads/portfolio-inner-site-master"
+		}
+	],
+	"settings": {}
+}
